@@ -27,7 +27,7 @@
 - Speculative beam search for simultaneous translation, EMNLP 2019, [[paper](https://arxiv.org/abs/1909.05421)]
 - Prediction Improves Simultaneous Neural Machine Translation, EMNLP 2018, [[paper](https://aclanthology.org/D18-1337/)]
 
-## Simultaneous Speech Translation
+## Simultaneous Speech Translations
 - SimulSpeech: End-to-End Simultaneous Speech to Text Translation, ACL 2020, [[paper](https://aclanthology.org/2020.acl-main.350/)] :star::star:
 
 ## Surveys
