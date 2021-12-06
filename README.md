@@ -22,7 +22,7 @@
 - Simultaneous Translation Policies: From Fixed to Adaptive, 2020 [[paper](https://arxiv.org/abs/2004.13169)] :star::star::star:
 
 ## Decoding strategies
-- Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation, NAACL 2018, [[paper](https://arxiv.org/abs/1806.03661)]
+- Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation, NAACL 2018, [[paper](https://arxiv.org/abs/1806.03661)] :star::star:
 - Re-translation versus Streaming for Simultaneous Translation, IWSLT 2020, [[paper](https://arxiv.org/abs/2004.03643)]
 - Speculative beam search for simultaneous translation, EMNLP 2019, [[paper](https://arxiv.org/abs/1909.05421)]
 - Prediction Improves Simultaneous Neural Machine Translation, EMNLP 2018, [[paper](https://aclanthology.org/D18-1337/)]
